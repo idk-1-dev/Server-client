@@ -8,7 +8,7 @@ import os
 
 HEADER = 64
 PORT = 5050
-SERVER = '' #put local or private ip here
+SERVER = '' #put local or private ip here MUST BE THE SAME IP ON BOTH FILES
 ADDR = (SERVER, PORT)
 FORMAT = 'utf-8'
 DISCONNECT = "!DISC"
