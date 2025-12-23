@@ -8,7 +8,7 @@ HEADER = 64
 PORT = 5050
 FORMAT = 'utf-8'
 DISCONNECT = "!DISC"
-SERVER = ''#put local or private ip here MUST BE THE SAME ON BOTH FILES
+SERVER = ''#put local or private ip here MUST BE THE SAME IP ON BOTH FILES
 ADDR = (SERVER, PORT)
 DISCALL = "!DISCALL"
 
