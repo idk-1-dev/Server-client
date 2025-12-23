@@ -1,3 +1,5 @@
+#all the information on this project is in the README file on my github page
+
 import socket 
 import threading
 import os
@@ -6,7 +8,7 @@ HEADER = 64
 PORT = 5050
 FORMAT = 'utf-8'
 DISCONNECT = "!DISC"
-SERVER = '127.0.0.1'
+SERVER = ''#put local or private ip here MUST BE THE SAME ON BOTH FILES
 ADDR = (SERVER, PORT)
 DISCALL = "!DISCALL"
 
